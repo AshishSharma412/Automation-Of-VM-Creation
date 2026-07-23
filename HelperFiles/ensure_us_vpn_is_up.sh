@@ -1,6 +1,6 @@
 #!/bin/bash
 
-ip="10.13.27.14"
+ip="10.**.**.14"
 attempts=20
 response="64 bytes from $ip"
 
